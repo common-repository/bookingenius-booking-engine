@@ -1,0 +1,150 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BookinGenius Booking Engine 1.0beta\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/bookingenius-"
+"booking-engine\n"
+"POT-Creation-Date: 2017-10-25 09:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: config/plugin.php:156
+msgid "Orientamento del form"
+msgstr ""
+
+#: config/plugin.php:159
+msgid "Orizzontale"
+msgstr ""
+
+#: config/plugin.php:160
+msgid "Verticale"
+msgstr ""
+
+#: views/admin-page.php:8
+msgid "Etichetta canale principale"
+msgstr ""
+
+#: views/admin-page.php:86
+msgid "Numero massimo di adulti per camera"
+msgstr ""
+
+#: views/admin-page.php:94
+msgid "Numero massimo di bambini per camera"
+msgstr ""
+
+#: views/admin-page.php:103
+msgid "Form Labels"
+msgstr ""
+
+#: views/admin-page.php:118
+msgid "Traduci"
+msgstr ""
+
+#: views/admin-page.php:133
+msgid "Form style"
+msgstr ""
+
+#: views/admin-page.php:163
+msgid "Posizione icona form mobile"
+msgstr ""
+
+#: views/admin-page.php:172
+msgid "Calendar styles"
+msgstr ""
+
+#: views/admin-page.php:174
+msgid "Usa gli stili del tema"
+msgstr ""
+
+#: views/admin-page.php:209
+msgid "Multi room selector styles"
+msgstr ""
+
+#: views/admin-page.php:248
+msgid ""
+"Lo shortcode per la generazione del modulo di prenotazione deve essere "
+"inserito <b>una sola volta</b> per pagina."
+msgstr ""
+
+#: views/form.php:14
+msgid "Arrivo"
+msgstr ""
+
+#: views/form.php:27
+msgid "Partenza"
+msgstr ""
+
+#: views/form.php:40
+msgid "Camere"
+msgstr ""
+
+#: views/form.php:56
+msgid "Ospiti"
+msgstr ""
+
+#: views/form.php:61 views/form.php:72
+msgid "Adulti"
+msgstr ""
+
+#: views/form.php:62 views/form.php:80
+msgid "Bambini"
+msgstr ""
+
+#: views/form.php:67 views/form.php:67 views/form.php:67
+msgid "Camera"
+msgstr ""
+
+#: views/form.php:76
+msgid "adulto"
+msgid_plural "adulti"
+msgstr[0] ""
+msgstr[1] ""
+
+#: views/form.php:83
+msgid "bambini"
+msgstr ""
+
+#: views/form.php:85
+msgid "bambino"
+msgid_plural "bambini"
+msgstr[0] ""
+msgstr[1] ""
+
+#: views/form.php:90
+msgid "Età dei bambini (anni)"
+msgstr ""
+
+#: views/form.php:95
+msgid "Età"
+msgstr ""
+
+#: views/form.php:117
+msgid "Codice"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "BookinGenius Booking Engine"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Integration widget for BookinGenius Booking Engine."
+msgstr ""
+
+#. URI of the plugin
+msgid "http://admin.bookingenius.it"
+msgstr ""
+
+#. Author of the plugin
+msgid "Begenius"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.begenius.it"
+msgstr ""

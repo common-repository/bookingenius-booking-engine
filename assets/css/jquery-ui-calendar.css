@@ -1,0 +1,143 @@
+.webui-popover {
+  border-radius: 0!important;
+  webkit-box-shadow: 0px 5px 6px 0px rgba(100, 100, 100, 0.38) !important;
+  -moz-box-shadow: 0px 5px 6px 0px rgba(100, 100, 100, 0.38) !important;
+  box-shadow: 0px 5px 6px 0px rgba(100, 100, 100, 0.38) !important;
+}
+.ui-datepicker.bg-booking-calendar {
+  font-family: sans-serif;
+  background: #FFFFFF;
+  padding: 10px;
+  border: 1px solid #DEDEDE;
+  padding: 0;
+  webkit-box-shadow: 0px 5px 6px 0px rgba(100, 100, 100, 0.38);
+  -moz-box-shadow: 0px 5px 6px 0px rgba(100, 100, 100, 0.38);
+  box-shadow: 0px 5px 6px 0px rgba(100, 100, 100, 0.38);
+  z-index: 99999!important;
+}
+.ui-datepicker-multi-2 {
+  width: auto!important;
+}
+.ui-datepicker.bg-booking-calendar {
+  /* Table styles reset */
+}
+.ui-datepicker.bg-booking-calendar .ui-datepicker-group-first {
+  float: left;
+}
+.ui-datepicker.bg-booking-calendar .ui-datepicker-group-last {
+  float: right;
+}
+.ui-datepicker.bg-booking-calendar .ui-datepicker-header {
+  background-color: #f57c00;
+  font-size: 20px;
+  padding: 15px 10px;
+}
+.ui-datepicker.bg-booking-calendar .ui-datepicker-title {
+  color: #FFFFFF;
+  line-height: 40px;
+  margin: 0 50px;
+  text-align: center;
+}
+.ui-datepicker.bg-booking-calendar .ui-datepicker-prev,
+.ui-datepicker.bg-booking-calendar .ui-datepicker-next {
+  background-color: #f57c00;
+  padding: 0;
+  height: auto;
+  width: auto;
+  margin: 0;
+  padding: 0 20px;
+  line-height: 40px;
+  position: absolute;
+  cursor: pointer;
+}
+.ui-datepicker.bg-booking-calendar .ui-datepicker-prev span,
+.ui-datepicker.bg-booking-calendar .ui-datepicker-next span {
+  display: none;
+}
+.ui-datepicker.bg-booking-calendar .ui-datepicker-prev {
+  left: 0;
+}
+.ui-datepicker.bg-booking-calendar .ui-datepicker-next {
+  right: 0;
+}
+.ui-datepicker.bg-booking-calendar .ui-state-hover {
+  color: #f57c00;
+}
+.ui-datepicker.bg-booking-calendar .ui-datepicker-prev:before {
+  content: "\f104";
+  font-family: FontAwesome;
+  position: relative;
+  color: #FFFFFF;
+}
+.ui-datepicker.bg-booking-calendar .ui-datepicker-next:before {
+  content: "\f105";
+  font-family: FontAwesome;
+  position: relative;
+  color: #FFFFFF;
+}
+.ui-datepicker.bg-booking-calendar .ui-datepicker-next:after {
+  content: "";
+}
+.ui-datepicker.bg-booking-calendar .ui-datepicker-calendar {
+  margin: 10px 10px;
+}
+.ui-datepicker.bg-booking-calendar .ui-datepicker-unselectable {
+  background-color: #FFFFFF;
+  color: #DADADA;
+}
+.ui-datepicker.bg-booking-calendar .ui-datepicker-week-end {
+  color: #f57c00;
+}
+.ui-datepicker.bg-booking-calendar table,
+.ui-datepicker.bg-booking-calendar caption,
+.ui-datepicker.bg-booking-calendar tbody,
+.ui-datepicker.bg-booking-calendar tfoot,
+.ui-datepicker.bg-booking-calendar thead,
+.ui-datepicker.bg-booking-calendar tr,
+.ui-datepicker.bg-booking-calendar th,
+.ui-datepicker.bg-booking-calendar td,
+.ui-datepicker.bg-booking-calendar a {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+}
+.ui-datepicker.bg-booking-calendar table {
+  width: 280px;
+}
+.ui-datepicker.bg-booking-calendar table thead th {
+  font-size: 11px;
+  padding: 0;
+  margin: 0;
+  font-weight: bold;
+}
+.ui-datepicker.bg-booking-calendar table tbody td {
+  font-size: 11px;
+  padding: 0;
+  margin: 0;
+  width: 20px;
+}
+.ui-datepicker.bg-booking-calendar table tbody td a,
+.ui-datepicker.bg-booking-calendar table tbody td span {
+  margin: 2px;
+  padding: 4px;
+  width: 20px;
+  height: 20px;
+  line-height: 20px;
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.87);
+}
+.ui-datepicker.bg-booking-calendar table tbody td a.ui-state-active {
+  border-bottom: 3px solid red;
+}
+.ui-datepicker.bg-booking-calendar .ui-state-disabled .ui-state-default,
+.ui-datepicker.bg-booking-calendar .ui-state-disabled .ui-state-default:hover {
+  background-color: transparent;
+}
+.ui-datepicker.bg-booking-calendar .ui-state-active {
+  color: red;
+}
+/*# sourceMappingURL=jquery-ui-calendar.css.map */

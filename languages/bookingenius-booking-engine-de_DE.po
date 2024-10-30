@@ -1,0 +1,139 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BookinGenius Booking Engine 1.0beta\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/bookingenius-"
+"booking-engine\n"
+"POT-Creation-Date: 2017-07-24 14:12+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-07-24 14:12+0000\n"
+"Last-Translator: cgabbanini <cristian.gabbanini@gmail.com>\n"
+"Language-Team: German\n"
+"Language: de-DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: views/admin-page.php:11
+msgid "Etichetta canale principale"
+msgstr ""
+
+#: views/admin-page.php:89
+msgid "Numero massimo di adulti per camera"
+msgstr ""
+
+#: views/admin-page.php:97
+msgid "Numero massimo di bambini per camera"
+msgstr ""
+
+#: views/admin-page.php:106
+msgid "Form style"
+msgstr ""
+
+#: views/admin-page.php:136
+msgid "Posizione icona form mobile"
+msgstr ""
+
+#: views/admin-page.php:145
+msgid "Calendar styles"
+msgstr ""
+
+#: views/admin-page.php:175
+msgid "Multi room selector styles"
+msgstr ""
+
+#: config/plugin.php:87
+msgid "Orientamento del form"
+msgstr "Ausrichtung der form"
+
+#: config/plugin.php:90
+msgid "Orizzontale"
+msgstr "Horizontal"
+
+#: config/plugin.php:91
+msgid "Verticale"
+msgstr "Vertikal"
+
+#. Plugin Name of the plugin/theme
+msgid "BookinGenius Booking Engine"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Integration widget for BookinGenius Booking Engine."
+msgstr ""
+
+#. URI of the plugin
+msgid "http://admin.bookingenius.it"
+msgstr ""
+
+#. Author of the plugin
+msgid "Begenius"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.begenius.it"
+msgstr ""
+
+#: views/form.php:5
+msgid "Arrivo"
+msgstr "Ankunft"
+
+#: views/form.php:12
+msgid "Partenza"
+msgstr "Überprüfen"
+
+#: views/form.php:19
+msgid "Camere"
+msgstr "Zimmer"
+
+#: views/form.php:29
+msgid "Ospiti"
+msgstr "Besucher"
+
+#: views/form.php:32 views/form.php:43
+msgid "Adulti"
+msgstr "Erwachsene"
+
+#: views/form.php:33 views/form.php:51
+msgid "Bambini"
+msgstr "Kinder"
+
+#: views/form.php:38 views/form.php:38 views/form.php:38
+msgid "Camera"
+msgstr "Zimmer"
+
+#: views/form.php:47
+msgid "adulto"
+msgid_plural "adulti"
+msgstr[0] "erwachsene"
+msgstr[1] "erwachsene"
+
+#: views/form.php:54
+msgid "bambini"
+msgstr "kinder"
+
+#: views/form.php:56
+msgid "bambino"
+msgid_plural "bambini"
+msgstr[0] "kind"
+msgstr[1] "kinder"
+
+#: views/form.php:61
+msgid "Età dei bambini (anni)"
+msgstr "Alter der Kinder (jahre)"
+
+#: views/form.php:66
+msgid "Età"
+msgstr "Alter"
+
+#: views/form.php:84
+msgid "Codice"
+msgstr "Code"
+
+#: views/admin-page.php:2
+msgid ""
+"Lo shortcode per la generazione del modulo di prenotazione deve essere "
+"inserito <b>una sola volta</b> per pagina."
+msgstr ""
+"Die Kurzwahlnummer für das Buchungsformular Erzeugung muss auf der Seite <b "
+"/> einmal <b> eingegeben werden."
